@@ -1,6 +1,7 @@
 # TEAM: AJC Legacy
 
-App's Name: WeBuy
+App's Name:
+WeBuy
   
 Description:
 It is an android mobile being developed  by Ashlone Chibvuri with kotlin and firebase as a backend.The app lets users buy and sell their products.You can register as a seller when you want to sell your products or as a regular customer to buy products.
